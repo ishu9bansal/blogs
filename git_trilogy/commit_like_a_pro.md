@@ -151,11 +151,11 @@ But when code meets people, something bigger happens — it becomes *collaborati
 
 That’s where **Pull Requests** come in — the bridge between your individual work and the shared world of your team.
 
+![Outro](images/p2i8.png)
+
 > In the next and final part of this trilogy —
 > we’ll explore **how pull requests turn code reviews into conversations**,
 > and how great teams transform feedback into velocity.
-
-![Outro](images/p2i8.png)
 
 ---
 
