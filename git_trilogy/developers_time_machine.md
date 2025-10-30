@@ -1,6 +1,8 @@
 # 🧭 The Developer’s Time Machine — Why Version Control Matters
 
-### *Part I & II — Understanding Git, GitHub, and the Power of Branches*
+![Header](images/p1i1.png)
+
+### *Understanding Git, GitHub, and the Power of Branches*
 
 In software development, **chaos isn’t the exception — it’s the default.**
 Multiple developers, evolving features, urgent bug fixes, and those infamous last-minute “just one more change” moments — all colliding in one codebase. Without a system to manage that chaos, every project eventually breaks under its own weight.
@@ -11,6 +13,8 @@ It’s not just a tool; it’s the **foundation of modern engineering discipline
 ---
 
 ## 🔍 Git vs GitHub — The Core Difference
+
+![Git vs GitHub](images/p1i2.png)
 
 Let’s clear up a common confusion first:
 
@@ -44,6 +48,8 @@ With Git, however, you can:
 
 Git keeps your progress **modular, reversible, and auditable** — empowering teams (and even solo devs) to move fast without breaking everything.
 
+![Version Control Chaos vs Order](images/p1i3.png)
+
 ---
 
 ## 🧠 The Real-World Chaos Git Helps Manage
@@ -61,6 +67,8 @@ git checkout feature/new-ui
 # continue where you left off
 ```
 
+![Context Switching](images/p1i4.png)
+
 Git enables **context switching without collateral damage** — freedom with safety nets.
 
 ---
@@ -71,6 +79,8 @@ A **branch** isn’t just a copy of your code — it’s a *sandbox for ideas.*
 
 Every new feature, fix, or experiment can live in its own branch until it’s ready to merge.
 This structure allows creativity without chaos.
+
+![Branching Sandbox](images/p1i5.png)
 
 ---
 
@@ -114,6 +124,8 @@ Use consistent naming patterns like:
 * `fix/*` → bug fixes (e.g., `fix/login-redirect`)
 * `hotfix/*` → urgent production issues
 
+![Naming Conventions](images/p1i6.png)
+
 Naming conventions help everyone know what a branch represents without asking.
 
 ---
@@ -130,6 +142,8 @@ That means:
 It’s the digital equivalent of a “Do Not Disturb” sign for critical code.
 
 GitHub supports this natively, but even without enforcement, adopting this culture manually prevents many late-night emergencies.
+
+![Protecting Key Branches](images/p1i7.png)
 
 ---
 
@@ -148,3 +162,5 @@ In the next part of this trilogy, we’ll go deeper into the *heartbeat* of ever
 You’ll learn how to craft meaningful commit messages, use staging effectively, and maintain a clean project history that makes debugging and collaboration a breeze.
 
 > **Next up:** “Commit Like a Pro — The Art of Saving Progress and Staying Sane.”
+
+![Calm in the Chaos](images/p1i8.png)
