@@ -1,5 +1,7 @@
 # 💾 Commit Like a Pro — The Art of Saving Progress and Staying Sane
 
+![Header](images/p2i1.png)
+
 ### *Part II of the “Developer’s Time Machine” Trilogy*
 
 If branches are your creative playground, **commits** are your progress journal.
@@ -10,6 +12,8 @@ A well-crafted commit history is like a time machine: it lets you trace ideas, d
 ---
 
 ## 🧱 What Makes a Good Commit?
+
+![Good vs Bad Commits](images/p2i2.png)
 
 Each commit should represent a **meaningful, self-contained unit of change** — something that could stand on its own if you had to roll back or reapply it later.
 
@@ -39,6 +43,8 @@ A good rule of thumb:
 
 ## 🧩 When to Commit
 
+![When to Commit](images/p2i3.png)
+
 Many developers wait too long to commit, thinking *“I’ll do it when it’s done.”*
 But good commits are not about “done” — they’re about **progress**.
 
@@ -59,6 +65,8 @@ Think of commits as **checkpoints in a game** — you don’t restart the level 
 ---
 
 ## 🧠 Staging and Reviewing Changes
+
+![Staging & Reviewing](images/p2i4.png)
 
 Before you commit, pause and *look at what’s about to be saved.*
 
@@ -84,6 +92,8 @@ This control is powerful — it lets you separate unrelated edits into distinct 
 
 ## ⚔️ Dealing with Conflicts, Stashes, and Safety Nets
 
+![Conflicts & Stash](images/p2i5.png)
+
 Conflicts happen when two people change the same part of code — and that’s okay.
 It means your team is moving fast. What matters is how you handle it.
 
@@ -97,6 +107,8 @@ A few golden rules:
 
 3. **Use `stash` for quick pauses, not long naps.**
    It’s a temporary locker, not a storage unit.
+
+![Safe Workflow](images/p2i6.png)
 
 A safe workflow when updating your branch from `dev`:
 
@@ -122,6 +134,8 @@ Short, explicit steps = safe, recoverable merges.
 
 ## 🧭 The Developer’s Rhythm
 
+![Developer’s Rhythm](images/p2i7.png)
+
 Once you start committing thoughtfully, you’ll notice a rhythm:
 **Code → Review → Commit → Continue.**
 
@@ -140,6 +154,8 @@ That’s where **Pull Requests** come in — the bridge between your individual 
 > In the next and final part of this trilogy —
 > we’ll explore **how pull requests turn code reviews into conversations**,
 > and how great teams transform feedback into velocity.
+
+![Outro](images/p2i8.png)
 
 ---
 
